@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novedades PS4 - Mayo 2025</title>
+    <link>https://www.playstation.com/es-es/ps4/ps4-games/</link>
+    <atom:link href="https://tusitio.com/rss/novedades_ps4.xml" rel="self" type="application/rss+xml" />
+    <description>Últimos lanzamientos de juegos para PlayStation 4 en 2025</description>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 29 Apr 2025 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Balatro</title>
+      <link>https://www.playstation.com/es-es/games/balatro/</link>
+      <description>Juego de cartas roguelike con mecánicas de póker y estética retro. Galardonado como mejor indie de 2024.</description>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.playstation.com/es-es/games/balatro/</guid>
+    </item>
+
+    <item>
+      <title>Warhammer 40,000: Boltgun</title>
+      <link>https://www.playstation.com/es-es/games/warhammer-40000-boltgun/</link>
+      <description>Shooter en primera persona de estilo retro ambientado en el universo Warhammer 40K.</description>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.playstation.com/es-es/games/warhammer-40000-boltgun/</guid>
+    </item>
+
+    <item>
+      <title>Capcom Fighting Collection 2</title>
+      <link>https://www.capcom-games.com/cfc2/es-es/</link>
+      <description>Compilación de juegos de lucha clásicos de Capcom, incluyendo títulos como Capcom vs. SNK 2 y Power Stone 2.</description>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.capcom-games.com/cfc2/es-es/</guid>
+    </item>
+
+    <item>
+      <title>Fuga: Melodies of Steel 3</title>
+      <link>https://www.cc2.co.jp/fuga3/en/</link>
+      <description>RPG táctico que concluye la trilogía Fuga, con una historia emotiva y combates estratégicos.</description>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.cc2.co.jp/fuga3/en/</guid>
+    </item>
+
+    <item>
+      <title>Phantom Brave: The Lost Hero</title>
+      <link>https://www.nisamerica.com/games/phantom-brave-the-lost-hero/</link>
+      <description>Secuela del clásico RPG táctico de Nippon Ichi Software, con nuevas aventuras y personajes.</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.nisamerica.com/games/phantom-brave-the-lost-hero/</guid>
+    </item>
+
+    <item>
+      <title>Tomb Raider IV-VI Remastered</title>
+      <link>https://www.aspyr.com/games/tomb-raider-iv-vi-remastered</link>
+      <description>Remasterización de las entregas clásicas de Tomb Raider con mejoras gráficas y de jugabilidad.</description>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.aspyr.com/games/tomb-raider-iv-vi-remastered</guid>
+    </item>
+
+    <item>
+      <title>Ninja Gaiden: Ragebound</title>
+      <link>https://www.dotemu.com/games/ninja-gaiden-ragebound/</link>
+      <description>Plataformas de acción en 2D con estética retro y jugabilidad desafiante.</description>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.dotemu.com/games/ninja-gaiden-ragebound/</guid>
+    </item>
+
+    <item>
+      <title>Tails of Iron II: Whiskers of Winter</title>
+      <link>https://www.unitedlabelgames.com/tails-of-iron-ii/</link>
+      <description>Secuela del aclamado RPG de acción, con nuevas aventuras en tierras heladas y combates intensos.</description>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.unitedlabelgames.com/tails-of-iron-ii/</guid>
+    </item>
+
+  </channel>
+</rss>
