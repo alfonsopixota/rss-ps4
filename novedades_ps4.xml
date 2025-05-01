@@ -3,7 +3,8 @@
   <channel>
     <title>Novedades PS4 - Mayo 2025</title>
     <link>https://www.playstation.com/es-es/ps4/ps4-games/</link>
-    <atom:link href="https://github.com/alfonsopixota/rss-ps4.git rel="self" type="application/rss+xml" />
+  <atom:link href="https://alfonsopixota.github.io/rss-ps4/novedades_ps4.xml" rel="self" type="application/rss+xml" />
+
     <description>Últimos lanzamientos de juegos para PlayStation 4 en 2025</description>
     <language>es-es</language>
     <lastBuildDate>Tue, 29 Apr 2025 12:00:00 +0000</lastBuildDate>
